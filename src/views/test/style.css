@@ -1,0 +1,141 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+
+}
+
+.banner {
+    height: 950px;
+    background: url(./bg1.jpg) center center no-repeat;
+    background-size: cover;
+    padding: 20px;
+
+
+
+
+}
+
+.red {
+    border: 1px solid red;
+}
+
+.green {
+    border: 1px solid green;
+}
+
+.about_signin {
+    height: 80px;
+    width: 100%;
+}
+
+.about,
+.signin {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 25px;
+    padding: 10px 15px;
+    text-transform: uppercase;
+}
+
+.about {
+    margin-left: 33px;
+    margin-right: 20px;
+}
+
+.signin {
+    border-radius: 16px;
+}
+
+.logo {
+    background: url(./Pikbest.png) center center no-repeat;
+    margin-top: -146px;
+    margin-left: -928px;
+    height: 900px;
+}
+
+.pho {
+    margin-top: -166px;
+    margin-left: 5px;
+    height: 175px;
+}
+
+.banhmi {
+    margin-top: -166px;
+    margin-left: 45px;
+    margin-right: 40px;
+    height: 175px;
+}
+
+.chagio {
+    margin-top: -166px;
+    margin-right: 40px;
+    height: 175px;
+}
+
+.bunbo {
+    margin-top: -166px;
+    height: 175px;
+}
+
+.text {
+    text-align: center;
+    color: white;
+    margin-top: 250px;
+}
+
+.btn_start {
+    text-align: center;
+}
+
+
+.banner .btn_start button {
+    text-transform: uppercase;
+    margin-top: 0;
+    color: black;
+    border-radius: 20px;
+    padding: 10px 15px;
+    border: 1px solid green;
+    cursor: pointer;
+
+}
+
+.content-center {
+    color: white;
+    margin-top: -720px;
+    margin-left: 580px;
+}
+
+.top,
+.center,
+.bottom {
+    color: white;
+    text-decoration: none;
+    display: grid;
+    margin-top: 25px;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    justify-items: stretch;
+    align-items: baseline;
+    justify-content: space-between;
+    align-content: stretch;
+}
+
+.center {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+span {
+    display: block;
+    font-size: 20px;
+    color: brown;
+}
+
+.banner2 {
+    height: 950px;
+    background: url(./background.jpg);
+    background-size: cover;
+    padding: 20px;
+
+}
